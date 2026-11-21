@@ -1,0 +1,11 @@
+{
+  "name": "dddpga1-kit",
+  "displayName": "dddpga1 Dev Kit",
+  "version": "1.0.0",
+  "description": "グローバル開発ルール（AGENTS.md）、Web制作・ブラウザ起動スキル（commit, create-sp-layout, init-web-contents, start-browser）、および危険コマンド検知Hookを統合した個人用開発プラグイン。",
+  "suggestedPrompts": [
+    "/start-browser でChromeをCDPモードで起動して",
+    "/init-web-contents でWebコンテンツの初期準備をして",
+    "/create-sp-layout でSPレイアウトを作成して"
+  ]
+}
